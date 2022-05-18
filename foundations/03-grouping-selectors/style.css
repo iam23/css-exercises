@@ -1,0 +1,14 @@
+.satu,
+.dua {
+    font-family: Helvetica, Times New Roman, "sans-serif";
+    font-size: 28px;
+}
+
+.satu {
+    background-color: black;   
+    color: white;
+}
+
+.dua {
+    background-color: yellow; 
+}
